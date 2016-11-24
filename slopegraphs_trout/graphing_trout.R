@@ -1,4 +1,5 @@
 #### Bill Petti
+#### billpetti.github.io
 #### Research Notebook
 #### Slopegraphs and Mike Trout
 #### Originally coded October 2016
